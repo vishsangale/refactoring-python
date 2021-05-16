@@ -10,4 +10,4 @@ first refactor the program to make it easy to add the feature, then add the feat
 - Refactoring changes the program in small steps, so if you make a mistake, it is easy to find where th bug is
 - Any fool can write code that a computer can understand. Good programmers write code that humans can understand
 - When programming, follow the comping rule: Always leave the code base healthier than when found it.
-- The tru test of good code is how easy it is to change it.
+- The true test of good code is how easy it is to change it.
